@@ -1,1 +1,2 @@
 # Js-Algoritma
+dosya oluşturuldu
